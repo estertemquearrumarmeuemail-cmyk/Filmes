@@ -1,2 +1,64 @@
-# Filmes
-Um html do filme do shrek
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Shrek</title>
+</head>
+<body>
+
+    <main>
+        <h1>Shrek</h1>
+
+        <p>isso oq eu falei</p>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLexArrTomii2M83twiy4lqRk5ReWkvfeuSksQMimqMcqPgauuAIAJbFN4VETBShYEz9GI3oQm0HTXXJgFOJLmbKxO2369ZwmygqBPQ&s=10" alt="Shrek verde">
+
+        <h2>aquilo oq o p falo</h2>
+
+        <p>aquilo que o h2 falo</p>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLexArrTomii2M83twiy4lqRk5ReWkvfeuSksQMimqMcqPgauuAIAJbFN4VETBShYEz9GI3oQm0HTXXJgFOJLmbKxO2369ZwmygqBPQ&s=10" alt="Shrek verde escuro">
+
+        <h3>aquela outra coisa que o p falo dnv</h3>
+
+        <p>cansei</p>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLexArrTomii2M83twiy4lqRk5ReWkvfeuSksQMimqMcqPgauuAIAJbFN4VETBShYEz9GI3oQm0HTXXJgFOJLmbKxO2369ZwmygqBPQ&s=10" alt="Shrek verde claro">
+
+        <h2>Enredo</h2>
+
+        <p>
+            O filme Shrek conta a história de um ogro solitário que tem seu pântano invadido
+            por criaturas de contos de fadas, faz um acordo com o Lorde Farquaad para
+            resgatar a Princesa Fiona e acaba descobrindo o amor verdadeiro.
+        </p>
+
+        <h2>Elenco</h2>
+
+        <p>Shrek, Burro e Fiona.</p>
+
+        <a href="https://youtu.be/LJdY1vjYnOM?t=61">Verde verde</a>
+    </main>
+
+</body>
+</html>
+
+body {
+    background-color: darkseagreen;
+    
+}
+
+h1 {
+    color: darkgreen;
+}
+
+img {
+    width: 300px;
+}
+
+main {
+    font-family: "Courier New", monospace;
+    font-size: 50px;
+}
